@@ -1,0 +1,10 @@
+C:\Users\Caique Villarreal\Downloads\ProjetoSimuladorPatos\bin\Debug\net48\SimuladorPatosForms.exe.config
+C:\Users\Caique Villarreal\Downloads\ProjetoSimuladorPatos\bin\Debug\net48\SimuladorPatosForms.exe
+C:\Users\Caique Villarreal\Downloads\ProjetoSimuladorPatos\bin\Debug\net48\SimuladorPatosForms.pdb
+C:\Users\Caique Villarreal\Downloads\ProjetoSimuladorPatos\obj\Debug\net48\SimuladorPatosForms.csproj.AssemblyReference.cache
+C:\Users\Caique Villarreal\Downloads\ProjetoSimuladorPatos\obj\Debug\net48\SimuladorPatosForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique Villarreal\Downloads\ProjetoSimuladorPatos\obj\Debug\net48\SimuladorPatosForms.AssemblyInfoInputs.cache
+C:\Users\Caique Villarreal\Downloads\ProjetoSimuladorPatos\obj\Debug\net48\SimuladorPatosForms.AssemblyInfo.cs
+C:\Users\Caique Villarreal\Downloads\ProjetoSimuladorPatos\obj\Debug\net48\SimuladorPatosForms.csproj.CoreCompileInputs.cache
+C:\Users\Caique Villarreal\Downloads\ProjetoSimuladorPatos\obj\Debug\net48\SimuladorPatosForms.exe
+C:\Users\Caique Villarreal\Downloads\ProjetoSimuladorPatos\obj\Debug\net48\SimuladorPatosForms.pdb
